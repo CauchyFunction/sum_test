@@ -1,6 +1,6 @@
 // main.cpp
 
-#include <stdio.h>
+#include <iostream>
 #include "sum.h"
 
 using namespace std;
